@@ -3,7 +3,7 @@
 ## AIM  
 To write a Python program that creates a dictionary with integers from 1 to `n` as keys and their squares as values.
 
----
+---  
 
 ### ALGORITHM  
 1. Begin the program.  
